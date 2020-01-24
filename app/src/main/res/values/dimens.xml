@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="signTextSize">20sp</dimen>
+    <dimen name="passwordTopMargin">10dp</dimen>
+    <dimen name="loginTopMargin">20dp</dimen>
+    <dimen name="forgotPadding">8dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CompassTest</string>
+
+
+    <string name="signIn">Sign In</string>
+    <string name="login">Login</string>
+    <string name="emailAddress">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot</string>
+</resources>
